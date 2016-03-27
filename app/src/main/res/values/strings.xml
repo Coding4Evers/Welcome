@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="welcome">Welcome to Android World!</string>
+    <string name="Android_Logo">Android-World-Image</string>
+</resources>
